@@ -1601,27 +1601,6 @@ preloader
 }
 
 
-.services .container {
-  margin-left: 25%;
-}
-
-@media (max-width: 991px) {
-  .services .container {
-    margin-left: 17%;
-  }
-}
-
-@media (max-width: 768px) {
-  .services .container {
-    margin-left: 7%;
-  }
-}
-
-@media (max-width: 568px) {
-  .services .container {
-    margin-left: 3%;
-  }
-}
 
 .services .service-item:hover .icon img {
   margin-top: -10px;
